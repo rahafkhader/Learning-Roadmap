@@ -24,7 +24,7 @@ C++ is a general-purpose programming language known for its efficiency and flexi
 Java is a popular programming language known for its portability and versatility. It is used for developing desktop, web, and mobile applications.
 
 ### Roadmap 🛣️
-- [ ] Basics (Syntax, Data Types, Operators)
+- [x] Basics (Syntax, Data Types, Operators)
 - [ ] Object-Oriented Programming (Classes and Objects, Inheritance, Polymorphism)
 - [ ] Collections Framework
 - [ ] Exception Handling
